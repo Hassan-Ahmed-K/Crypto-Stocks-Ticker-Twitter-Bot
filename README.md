@@ -4,3 +4,7 @@ How to contribute:
 3. paste app folder along with .gitignore
 4. install dependencies
 5. contribute and submit for review
+
+You can Install the Requirements by using below command
+
+pip install -r requirements.txt
