@@ -1,0 +1,9 @@
+selenium==4.17.2
+pandas==2.1.4
+Pillow==10.3.0
+schedule==1.2.1
+python-dotenv==1.0.1
+# The following are built-in modules and do not require installation:
+threading
+sqlite3
+os
